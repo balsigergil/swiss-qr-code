@@ -1,0 +1,17 @@
+{
+    "name": "balsigergil/swiss-qr-code",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Balsigergil\\SwissQrCode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gil Balsiger",
+            "email": "gil.balsiger@gmail.com"
+        }
+    ],
+    "require": {}
+}
